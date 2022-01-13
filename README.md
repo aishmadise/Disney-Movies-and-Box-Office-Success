@@ -10,8 +10,8 @@ Note: The dataset used in this project is a modified version of the Disney Chara
 
 What did I apply to this project?
 
-1.Data manipulation using Pandas 
-2.Data visualization using Seaborn 
-3.Two-sample bootstrap hypothesis testing 
-4.Building a regression model using Scikit-Learn 
+1. Data manipulation using Pandas
+2. Data visualization using Seaborn 
+4. Two-sample bootstrap hypothesis testing 
+5. Building a regression model using Scikit-Learn 
 
